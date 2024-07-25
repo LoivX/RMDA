@@ -33,8 +33,7 @@ Per il funzionamento del codice sono necessarie le seguenti librerie:
 Inoltre, il codice è stato sviluppato e commentato all'interno di un *Jupyter Notebook*, è dunque necessaria l'installazione dell'applicazione (oppure l'installazione dell'estensione per VS Code nel caso lo si utilizzi come editor).
 
 
-
-
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 ## 1. Analisi del catalogo
 Lettura e selezione dati
