@@ -33,8 +33,6 @@ Per il funzionamento del codice sono necessarie le seguenti librerie:
 Inoltre, il codice è stato sviluppato e commentato all'interno di un *Jupyter Notebook*, è dunque necessaria l'installazione dell'applicazione (oppure l'installazione dell'estensione per VS Code nel caso lo si utilizzi come editor).
 
 
-\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-
 ## 1. Analisi del catalogo
 Lettura e selezione dati
 Per il trattamento dei dati si è optato per l'utilizzo di dataframe pandas. In questo primo frammento si è generato un dataframe a partire dal file .csv contenente i dati della survey. Successivamente sono stati estratti i dati di interesse riguardanti le distanze normalizzate (BCG_offset_R500), le masse (logM500) e il redshift (BEST_Z) degli ammassi di galassie.
