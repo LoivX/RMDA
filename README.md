@@ -20,3 +20,14 @@ Il codice è stato suddiviso per facilitare la lettura nelle seguenti macroaree:
         - Fitting dei parametri con algoritmo emcee
         - Confronto dati - modello
         - Valutazione della riproducibilità dei dati mediante il modello
+
+## Librerie necessarie
+Per il funzionamento del codice sono necessarie le seguenti librerie:
+- *numpy*
+- *pandas*
+- *matplotlib*
+- *scipy*
+- *emcee*
+- *pygtc*
+
+Inoltre, il codice è stato sviluppato e commentato all'interno di un *Jupyter Notebook*, è dunque necessaria l'installazione dell'applicazione (oppure l'installazione dell'estensione per VS Code nel caso lo si utilizzi come editor).
